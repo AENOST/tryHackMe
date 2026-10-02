@@ -115,7 +115,7 @@ exit
 
 3. There is a single module under hosts-domains. What is its name? - migrate_hosts
 
-4. censys_email_address is a module that “retrieves email addresses from the TLS certificates for a company.” Who is the author? - Censys Team
+4. censys_email_address is a module that “retrieves email addresses from the TLS certificates for a company.” Who is the author? - Censys inc
 ```
 
 ## Maltego
